@@ -1,0 +1,8 @@
+#!/bin/sh
+
+nom=10
+if [[ $# -eq 1 ]] ; then
+    nom=$1
+fi
+
+java -jar /Users/tayyibah/Desktop/UltaPoisaCliptos/CryptoSwing/CryptoNotifications2-1.0-SNAPSHOT.jar ${nom}

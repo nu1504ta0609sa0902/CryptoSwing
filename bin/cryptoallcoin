@@ -1,0 +1,12 @@
+#!/bin/sh
+
+nom=10
+allcoin="-Dall.coin=true"
+if [ $# -eq 1 ] ; then
+    nom=$1
+    #elif [ $# -eq 2 ] ; then
+    #nom=$1
+    #allcoin="-Dall.coin=true"
+fi
+
+java  ${allcoin} -jar /Users/tayyibah/Desktop/UltaPoisaCliptos/CryptoSwing/CryptoNotifications2-1.0-SNAPSHOT.jar ${nom}

@@ -1,0 +1,237 @@
+
+
+----------------------------
+Date: Wed Jan 09 20:30:09 GMT 2019
+----------------------------
+
+Notification settings : SNT_10_20_0.01856946290
+Current Price : 0.020457
+
+Percentage: 10.17
+
+Current price 0.020457 is atleast 10.0 percent MORE than previous price 0.018569
+----------------------------
+
+----------------------------
+
+Notification settings : NPXS_10_20_0.00044666184
+Current Price : 0.000524
+
+Percentage: 17.40
+
+Current price 0.000524 is atleast 10.0 percent MORE than previous price 0.000447
+----------------------------
+
+----------------------------
+
+Notification settings : TRX_10_20_0.02283736799
+Current Price : 0.029769
+
+Percentage: 30.35
+
+Current price 0.029769 is atleast 10.0 percent MORE than previous price 0.022837
+----------------------------
+
+
+----------------------------
+
+Date: Sun Jan 06 14:09:38 GMT 2019----------------------------
+Notification settings : TRX_10_10_0.02016012217Current Price : 0.022960Percentage: 13.89Current price 0.022960 is atleast 10.0 percent MORE than previous price 0.020160--------------------------------------------------------
+
+Date: Sun Jan 06 13:59:40 GMT 2019----------------------------
+Notification settings : TRX_10_10_0.02016012217Current Price : 0.022983Percentage: 14.00Current price 0.022983 is atleast 10.0 percent MORE than previous price 0.020160--------------------------------------------------------
+
+Date: Sun Jan 06 13:48:40 GMT 2019----------------------------
+Notification settings : TRX_10_10_0.02016012217Current Price : 0.022985Percentage: 14.01Current price 0.022985 is atleast 10.0 percent MORE than previous price 0.020160--------------------------------------------------------
+
+Date: Sun Jan 06 13:48:40 GMT 2019----------------------------
+Notification settings : TRX_10_10_0.02016012217Current Price : 0.022985Percentage: 14.01Current price 0.022985 is atleast 10.0 percent MORE than previous price 0.020160--------------------------------------------------------
+
+Date: Sun Jan 06 13:48:27 GMT 2019----------------------------
+Notification settings : TRX_10_10_0.02016012217Current Price : 0.022984Percentage: 14.01Current price 0.022984 is atleast 10.0 percent MORE than previous price 0.020160--------------------------------------------------------
+
+Date: Sun Jan 06 13:47:17 GMT 2019----------------------------
+Notification settings : TRX_10_10_0.02016012217Current Price : 0.023007Percentage: 14.12Current price 0.023007 is atleast 10.0 percent MORE than previous price 0.020160--------------------------------------------------------
+
+Date: Sun Jan 06 13:45:48 GMT 2019----------------------------
+Notification settings : TRX_10_10_0.02016012217Current Price : 0.023005Percentage: 14.11Current price 0.023005 is atleast 10.0 percent MORE than previous price 0.020160--------------------------------------------------------
+
+Date: Sun Jan 06 13:43:58 GMT 2019----------------------------
+Notification settings : TRX_10_10_0.02016012217Current Price : 0.023016Percentage: 14.17Current price 0.023016 is atleast 10.0 percent MORE than previous price 0.020160--------------------------------------------------------
+
+Date: Sun Jan 06 13:41:31 GMT 2019----------------------------
+Notification settings : TRX_10_10_0.02016012217Current Price : 0.023019Percentage: 14.18Current price 0.023019 is atleast 10.0 percent MORE than previous price 0.020160--------------------------------------------------------
+
+Date: Sun Jan 06 13:36:28 GMT 2019----------------------------
+Notification settings : TRX_10_10_0.02016012217Current Price : 0.022987Percentage: 14.02Current price 0.022987 is atleast 10.0 percent MORE than previous price 0.020160--------------------------------------------------------
+
+Date: Sun Dec 30 23:14:58 GMT 2018----------------------------
+Notification settings : DENT_0.10_10_0.00121393978Current Price : 0.001315Percentage: 8.35Current price 0.001315 is atleast 0.1 percent MORE than previous price 0.001214--------------------------------------------------------
+
+Date: Sun Dec 30 23:12:55 GMT 2018----------------------------
+Notification settings : DENT_0.10_10_0.00121393978Current Price : 0.001314Percentage: 8.26Current price 0.001314 is atleast 0.1 percent MORE than previous price 0.001214--------------------------------------------------------
+
+Date: Fri Dec 28 22:08:27 GMT 2018----------------------------
+Notification settings : NPXS_5_5_0.00054480207Current Price : 0.000508Percentage: -6.72Current price 0.000508 is atleast 5.0 percent LESS than previous price 0.000545--------------------------------------------------------
+
+Date: Fri Dec 28 22:00:47 GMT 2018----------------------------
+Notification settings : NPXS_5_5_0.00054480207Current Price : 5.09246011676E-4Percentage: -6.53Current price 5.09246011676E-4 is atleast 5.0 percent LESS than previous price 5.4480207E-4--------------------------------------------------------
+
+Date: Fri Dec 28 22:00:03 GMT 2018----------------------------
+Notification settings : NPXS_5_5_0.00054480207Current Price : 4.90323206588E-4Percentage: -10.00Current price 4.90323206588E-4 is atleast 5.0 percent LESS than previous price 5.4480207E-4--------------------------------------------------------
+
+Date: Fri Dec 28 21:58:43 GMT 2018----------------------------
+Notification settings : NPXS_5_5_0.00054480207Current Price : 4.83215187704E-4Percentage: -11.30Current price 4.83215187704E-4 is atleast 5.0 percent LESS than previous price 5.4480207E-4--------------------------------------------------------
+
+Date: Fri Dec 28 21:55:06 GMT 2018----------------------------
+Notification settings : NPXS_10_10_0.00054480207Current Price : 4.84029892883E-4Percentage: -11.15Current price 4.84029892883E-4 is atleast 10.0 percent LESS than previous price 5.4480207E-4--------------------------------------------------------
+
+Date: Fri Dec 28 21:53:48 GMT 2018----------------------------
+Notification settings : NPXS_10_10_0.00054480207Current Price : 4.78508992023E-4Percentage: -12.17Current price 4.78508992023E-4 is atleast 10.0 percent LESS than previous price 5.4480207E-4--------------------------------------------------------
+
+Date: Fri Dec 28 21:52:12 GMT 2018----------------------------
+Notification settings : NPXS_10_10_0.00054480207Current Price : 4.83896801696E-4Percentage: -11.18Current price 4.83896801696E-4 is atleast 10.0 percent LESS than previous price 5.4480207E-4--------------------------------------------------------
+
+Date: Thu Dec 27 23:01:50 GMT 2018----------------------------
+Notification settings : BTC_0.0000010_0.0000010_3797.28411037000Current Price : 3654.83277176Percentage: -3.75Current price 3654.83277176 is atleast 1.0E-6 percent LESS than previous price 3797.28411037--------------------------------------------------------
+
+Date: Thu Dec 27 22:52:30 GMT 2018----------------------------
+Notification settings : BTC_0.0000010_0.0000010_3797.28411037000Current Price : 3648.5380166Percentage: -3.92Current price 3648.5380166 is atleast 1.0E-6 percent LESS than previous price 3797.28411037--------------------------------------------------------
+
+Date: Thu Dec 27 22:49:27 GMT 2018----------------------------
+Notification settings : BTC_0.0000010_0.0000010_3797.28411037000Current Price : 3649.16245384Percentage: -3.90Current price 3649.16245384 is atleast 1.0E-6 percent LESS than previous price 3797.28411037--------------------------------------------------------
+
+Date: Thu Dec 27 22:45:09 GMT 2018----------------------------
+Notification settings : DENT_10_10_0.00123862411Current Price : 0.00111142768859Percentage: -10.27Current price 0.00111142768859 is atleast 10.0 percent LESS than previous price 0.00123862411--------------------------------------------------------
+
+Date: Wed Dec 26 16:20:31 GMT 2018----------------------------
+Notification settings : BTC_0.000010_0.000010_3879.57608777000Current Price : 3779.37500949Percentage: -2.58Current price 3779.37500949 is atleast 1.0E-5 percent LESS than previous price 3879.57608777--------------------------------------------------------
+
+Date: Wed Dec 26 16:19:27 GMT 2018----------------------------
+Notification settings : DENT_10_40_0.00108329659Current Price : 0.00120785129808Percentage: 11.50Current price 0.00120785129808 is atleast 10.0 percent MORE than previous price 0.00108329659--------------------------------------------------------
+
+Date: Wed Dec 26 16:17:46 GMT 2018----------------------------
+Notification settings : DENT_10_40_0.00108329659Current Price : 0.0012076500145Percent changed: 11.48Current price 0.0012076500145 is atleast 10.0 percent MORE than previous price 0.00108329659--------------------------------------------------------
+
+Date: Sun Dec 23 01:01:08 GMT 2018----------------------------
+Notification settings : BTC_0.00010_0.00010_3904.39778392000Current Price : 4035.87175104Percentage difference between current price 4035.87175104 and previous price 3904.39778392 is : 3.367330236213807 PercentCurrent price 4035.87175104 is atleast 1.0E-4 percent MORE than previous price 3904.39778392--------------------------------------------------------
+Notification settings : DENT_10_7.5_0.00102142734Current Price : 0.00112921938229Percentage difference between current price 0.00112921938229 and previous price 0.00102142734 is : 10.553079800076631 PercentCurrent price 0.00112921938229 is atleast 10.0 percent MORE than previous price 0.00102142734--------------------------------------------------------
+Notification settings : ETH_10_10_112.18503732400Current Price : 123.917573789Percentage difference between current price 123.917573789 and previous price 112.185037324 is : 10.458200794741837 PercentCurrent price 123.917573789 is atleast 10.0 percent MORE than previous price 112.185037324--------------------------------------------------------
+Notification settings : SNT_10_7.5_0.01777136345Current Price : 0.0203410903093Percentage difference between current price 0.0203410903093 and previous price 0.01777136345 is : 14.459930812455477 PercentCurrent price 0.0203410903093 is atleast 10.0 percent MORE than previous price 0.01777136345--------------------------------------------------------
+
+Date: Sun Dec 23 00:43:39 GMT 2018----------------------------
+Notification settings : BTC_0.00010_0.00010_3904.39778392000Current Price : 4018.60127108Percentage difference between current price 4018.60127108 and previous price 3904.39778392 is : 2.924996208899085 PercentCurrent price 4018.60127108 is atleast 1.0E-4 percent MORE than previous price 3904.39778392----------------------------
+Notification settings : DENT_10_7.5_0.00102142734Current Price : 0.0011268009999Percentage difference between current price 0.0011268009999 and previous price 0.00102142734 is : 10.31631480512359 PercentCurrent price 0.0011268009999 is atleast 10.0 percent MORE than previous price 0.00102142734----------------------------
+Notification settings : SNT_10_7.5_0.01777136345Current Price : 0.0207162310488Percentage difference between current price 0.0207162310488 and previous price 0.01777136345 is : 16.570859107605497 PercentCurrent price 0.0207162310488 is atleast 10.0 percent MORE than previous price 0.01777136345----------------------------
+
+Date: Sun Dec 23 00:33:07 GMT 2018----------------------------
+Notification settings : SNT_10_7.5_0.01777136345Current Price : 0.0208795048282Percentage difference between current price 0.0208795048282 and previous price 0.01777136345 is : 17.489605605922133 PercentCurrent price 0.0208795048282 is atleast 10.0 percent MORE than previous price 0.01777136345----------------------------
+
+Date: Sun Dec 23 00:30:42 GMT 2018----------------------------
+Notification settings : XMY_10_10_0.00241357262Current Price : 0.00241592508612Percentage difference between current price 0.00241592508612 and previous price 0.00241357262 is : 0.0974682137387027 Percent----------------------------
+Notification settings : NLG_10_10_0.02563407144Current Price : 0.025913608383Percentage difference between current price 0.025913608383 and previous price 0.02563407144 is : 1.0904898336352666 Percent----------------------------
+Notification settings : OMG_10_10_1.52723039847Current Price : 1.57527344509Percentage difference between current price 1.57527344509 and previous price 1.52723039847 is : 3.14576285726961 Percent----------------------------
+Notification settings : XVG_10_10_0.00796366050Current Price : 0.00805429862028Percentage difference between current price 0.00805429862028 and previous price 0.0079636605 is : 1.1381464626725364 Percent----------------------------
+Notification settings : BTC_10_10_3904.39778392000Current Price : 4017.36775111Percentage difference between current price 4017.36775111 and previous price 3904.39778392 is : 2.8934031172555987 Percent----------------------------
+Notification settings : RDD_10_10_0.00128989178Current Price : 0.00134846979679Percentage difference between current price 0.00134846979679 and previous price 0.00128989178 is : 4.541312511503876 Percent----------------------------
+Notification settings : XRP_25_10_0.35524148998Current Price : 0.362257336726Percentage difference between current price 0.362257336726 and previous price 0.35524148998 is : 1.9749513905019995 Percent----------------------------
+Notification settings : DENT_10_7.5_0.00102142734Current Price : 0.00108649794569Percentage difference between current price 0.00108649794569 and previous price 0.00102142734 is : 6.370556489118438 Percent----------------------------
+Notification settings : ETH_10_10_112.18503732400Current Price : 118.850589587Percentage difference between current price 118.850589587 and previous price 112.185037324 is : 5.941569769014123 Percent----------------------------
+Notification settings : SNT_10_7.5_0.01777136345Current Price : 0.0209031903337Percentage difference between current price 0.0209031903337 and previous price 0.01777136345 is : 17.622884662234508 PercentCurrent price 0.0209031903337 is atleast 10.0 percent MORE than previous price 0.01777136345----------------------------
+Notification settings : XLM_15_10_0.11968625958Current Price : 0.122824617288Percentage difference between current price 0.122824617288 and previous price 0.11968625958 is : 2.622153720078684 Percent----------------------------
+Notification settings : NPXS_10_7.5_0.00056308170Current Price : 5.88053966486E-4Percentage difference between current price 5.88053966486E-4 and previous price 5.630817E-4 is : 4.434927735353501 Percent----------------------------
+Notification settings : TRX_10_10_0.02043197179Current Price : 0.0208264340298Percentage difference between current price 0.0208264340298 and previous price 0.02043197179 is : 1.9306126880669552 Percent----------------------------
+
+Date: Sat Dec 22 20:54:53 GMT 2018----------------------------
+Notification settings : XMY_10_10_0.00241357262Current Price : 0.00240194384657Percentage difference between current price 0.00240194384657 and previous price 0.00241357262 is : -0.48180748048093974 Percent----------------------------
+Notification settings : NLG_10_10_0.02563407144Current Price : 0.0258082534039Percentage difference between current price 0.0258082534039 and previous price 0.02563407144 is : 0.6794939473727254 Percent----------------------------
+Notification settings : OMG_10_10_1.52723039847Current Price : 1.54533196413Percentage difference between current price 1.54533196413 and previous price 1.52723039847 is : 1.185254410738189 Percent----------------------------
+Notification settings : XVG_10_10_0.00796366050Current Price : 0.00803436847192Percentage difference between current price 0.00803436847192 and previous price 0.0079636605 is : 0.8878828011314528 Percent----------------------------
+Notification settings : BTC_10_10_3904.39778392000Current Price : 3940.60790557Percentage difference between current price 3940.60790557 and previous price 3904.39778392 is : 0.9274188659549232 Percent----------------------------
+Notification settings : RDD_10_10_0.00128989178Current Price : 0.00133998907291Percentage difference between current price 0.00133998907291 and previous price 0.00128989178 is : 3.8838368990924272 Percent----------------------------
+Notification settings : XRP_25_10_0.35524148998Current Price : 0.357158896414Percentage difference between current price 0.357158896414 and previous price 0.35524148998 is : 0.5397473234638112 Percent----------------------------
+Notification settings : DENT_10_7.5_0.00102142734Current Price : 0.00103293075684Percentage difference between current price 0.00103293075684 and previous price 0.00102142734 is : 1.126209999430793 Percent----------------------------
+Notification settings : ETH_10_10_112.18503732400Current Price : 114.849806905Percentage difference between current price 114.849806905 and previous price 112.185037324 is : 2.375334219753303 Percent----------------------------
+Notification settings : SNT_10_7.5_0.01777136345Current Price : 0.0179721833577Percentage difference between current price 0.0179721833577 and previous price 0.01777136345 is : 1.1300196986292568 Percent----------------------------
+Notification settings : XLM_15_10_0.11968625958Current Price : 0.121011868217Percentage difference between current price 0.121011868217 and previous price 0.11968625958 is : 1.10756960878533 Percent----------------------------
+Notification settings : NPXS_10_7.5_0.00056308170Current Price : 5.80041232415E-4Percentage difference between current price 5.80041232415E-4 and previous price 5.630817E-4 is : 3.011913264984457 Percent----------------------------
+Notification settings : TRX_10_10_0.02043197179Current Price : 0.0208518846987Percentage difference between current price 0.0208518846987 and previous price 0.02043197179 is : 2.0551756483215176 Percent----------------------------
+
+Date: Sat Dec 22 20:53:54 GMT 2018----------------------------
+Notification settings : XMY_10_10_0.00241357262Current Price : 0.00240121762441Percentage difference between current price 0.00240121762441 and previous price 0.00241357262 is : -0.5118965755420185 Percent----------------------------
+Notification settings : NLG_10_10_0.02563407144Current Price : 0.025806172255Percentage difference between current price 0.025806172255 and previous price 0.02563407144 is : 0.6713752647636355 Percent----------------------------
+Notification settings : OMG_10_10_1.52723039847Current Price : 1.54582047361Percentage difference between current price 1.54582047361 and previous price 1.52723039847 is : 1.2172410370186382 Percent----------------------------
+Notification settings : XVG_10_10_0.00796366050Current Price : 0.00800039043564Percentage difference between current price 0.00800039043564 and previous price 0.0079636605 is : 0.4612192551402554 Percent----------------------------
+Notification settings : BTC_10_10_3904.39778392000Current Price : 3941.94443295Percentage difference between current price 3941.94443295 and previous price 3904.39778392 is : 0.9616501982619029 Percent----------------------------
+Notification settings : RDD_10_10_0.00128989178Current Price : 0.00133949173646Percentage difference between current price 0.00133949173646 and previous price 0.00128989178 is : 3.845280451356931 Percent----------------------------
+Notification settings : XRP_25_10_0.35524148998Current Price : 0.357126480552Percentage difference between current price 0.357126480552 and previous price 0.35524148998 is : 0.5306223020588496 Percent----------------------------
+Notification settings : DENT_10_7.5_0.00102142734Current Price : 0.00106536603657Percentage difference between current price 0.00106536603657 and previous price 0.00102142734 is : 4.301695759387046 Percent----------------------------
+Notification settings : ETH_10_10_112.18503732400Current Price : 114.769488091Percentage difference between current price 114.769488091 and previous price 112.185037324 is : 2.3037392763313678 Percent----------------------------
+Notification settings : SNT_10_7.5_0.01777136345Current Price : 0.0179615355067Percentage difference between current price 0.0179615355067 and previous price 0.01777136345 is : 1.070103918785127 Percent----------------------------
+Notification settings : XLM_15_10_0.11968625958Current Price : 0.120991340429Percentage difference between current price 0.120991340429 and previous price 0.11968625958 is : 1.0904182765672235 Percent----------------------------
+Notification settings : NPXS_10_7.5_0.00056308170Current Price : 5.65610158904E-4Percentage difference between current price 5.65610158904E-4 and previous price 5.630817E-4 is : 0.4490394385042156 Percent----------------------------
+Notification settings : TRX_10_10_0.02043197179Current Price : 0.020855839045Percentage difference between current price 0.020855839045 and previous price 0.02043197179 is : 2.0745293668007836 Percent----------------------------
+
+Date: Sat Dec 22 20:50:33 GMT 2018----------------------------
+Notification settings : XMY_10_10_0.00241357262Current Price : 0.00240084097938Percentage difference between current price 0.00240084097938 and previous price 0.00241357262 is : -0.5275018665069194 Percent----------------------------
+Notification settings : NLG_10_10_0.02563407144Current Price : 0.025743800676Percentage difference between current price 0.025743800676 and previous price 0.02563407144 is : 0.42806011622787365 Percent----------------------------
+Notification settings : OMG_10_10_1.52723039847Current Price : 1.54497626906Percentage difference between current price 1.54497626906 and previous price 1.52723039847 is : 1.1619642070887302 Percent----------------------------
+Notification settings : XVG_10_10_0.00796366050Current Price : 0.00800087175767Percentage difference between current price 0.00800087175767 and previous price 0.0079636605 is : 0.46726323491563604 Percent----------------------------
+Notification settings : BTC_10_10_3904.39778392000Current Price : 3940.74428853Percentage difference between current price 3940.74428853 and previous price 3904.39778392 is : 0.9309119260258433 Percent----------------------------
+Notification settings : RDD_10_10_0.00128989178Current Price : 0.00133971125417Percentage difference between current price 0.00133971125417 and previous price 0.00128989178 is : 3.862298755791756 Percent----------------------------
+Notification settings : XRP_25_10_0.35524148998Current Price : 0.357044162978Percentage difference between current price 0.357044162978 and previous price 0.35524148998 is : 0.5074500160725909 Percent----------------------------
+Notification settings : DENT_10_7.5_0.00102142734Current Price : 0.00103145559453Percentage difference between current price 0.00103145559453 and previous price 0.00102142734 is : 0.9817883404217449 Percent----------------------------
+Notification settings : ETH_10_10_112.18503732400Current Price : 114.638812963Percentage difference between current price 114.638812963 and previous price 112.185037324 is : 2.1872574966599916 Percent----------------------------
+Notification settings : SNT_10_7.5_0.01777136345Current Price : 0.0178973266077Percentage difference between current price 0.0178973266077 and previous price 0.01777136345 is : 0.7087985007700613 Percent----------------------------
+Notification settings : XLM_15_10_0.11968625958Current Price : 0.120923675201Percentage difference between current price 0.120923675201 and previous price 0.11968625958 is : 1.0338827742986663 Percent----------------------------
+Notification settings : NPXS_10_7.5_0.00056308170Current Price : 5.7989680649E-4Percentage difference between current price 5.7989680649E-4 and previous price 5.630817E-4 is : 2.9862640696723 Percent----------------------------
+Notification settings : TRX_10_10_0.02043197179Current Price : 0.0207962178711Percentage difference between current price 0.0207962178711 and previous price 0.02043197179 is : 1.7827260376224334 Percent----------------------------
+
+Date: Wed Dec 19 20:31:34 GMT 2018----------------------------
+Notification settings : BTC_0.00010_0.00010_3825.26301888000Current Price : 3768.81400344Percentage difference between current price 3768.81400344 and previous price 3825.26301888 is : -1.4756897803207207 PercentCurrent price 3768.81400344 is atleast 1.0E-4 percent LESS than previous price 3825.26301888----------------------------
+
+Date: Wed Dec 19 20:28:05 GMT 2018----------------------------
+Notification settings : BTC_0.00010_0.00010_3825.26301888000Current Price : 3777.91410551Percentage difference between current price 3777.91410551 and previous price 3825.26301888 is : -1.2377949734777531Current price 3777.91410551 is atleast 1.0E-4 percent LESS than previous price 3825.26301888Percentage difference : -1.2377949734777531----------------------------
+
+Date: Wed Dec 19 20:23:03 GMT 2018----------------------------
+Notification settings : BTC_0.00010_0.00010_3825.26301888000Current Price : 3786.29585728Percentage difference between current price 3786.29585728 and previous price 3825.26301888 is : -1.0186792753249492Current price 3786.29585728 is atleast 1.0E-4 percent LESS than previous price 3825.26301888----------------------------
+
+Date: Sun Dec 16 20:33:42 GMT 2018----------------------------
+Notification settings : XMY_5_5_0.00144429238Current Price : 0.00154435689664Percentage difference between current price 0.00154435689664 and previous price 0.00144429238 is : 6.928272836279873Current price 0.00154435689664 is atleast 5.0 percent MORE than previous price 0.00144429238----------------------------
+Notification settings : BTC_0.0010_0.0010_3275.93268483000Current Price : 3279.03402782Percentage difference between current price 3279.03402782 and previous price 3275.93268483 is : 0.0946705347262305Current price 3279.03402782 is atleast 0.001 percent MORE than previous price 3275.93268483----------------------------
+
+Date: Sun Dec 16 20:32:51 GMT 2018----------------------------
+Notification settings : XMY_5_5_0.00144429238Current Price : 0.00154452900638Percentage difference between current price 0.00154452900638 and previous price 0.00144429238 is : 6.940189380490952Current price 0.00154452900638 is atleast 5.0 percent MORE than previous price 0.00144429238----------------------------
+Notification settings : BTC_0.0010_0.0010_3275.93268483000Current Price : 3277.74402731Percentage difference between current price 3277.74402731 and previous price 3275.93268483 is : 0.05529242064062408Current price 3277.74402731 is atleast 0.001 percent MORE than previous price 3275.93268483----------------------------
+
+Date: Sun Dec 16 20:31:52 GMT 2018----------------------------
+Notification settings : XMY_5_5_0.00144429238Current Price : 0.00154535615016Percentage difference between current price 0.00154535615016 and previous price 0.00144429238 is : 6.997459209748097Current price 0.00154535615016 is atleast 5.0 percent MORE than previous price 0.00144429238----------------------------
+Notification settings : BTC_0.0010_0.0010_3275.93268483000Current Price : 3277.04440016Percentage difference between current price 3277.04440016 and previous price 3275.93268483 is : 0.033935841696252314Current price 3277.04440016 is atleast 0.001 percent MORE than previous price 3275.93268483----------------------------
+
+Date: Sun Dec 16 20:30:54 GMT 2018----------------------------
+Notification settings : XMY_5_5_0.00144429238Current Price : 0.00154356905395Percentage difference between current price 0.00154356905395 and previous price 0.00144429238 is : 6.873724138183149Current price 0.00154356905395 is atleast 5.0 percent MORE than previous price 0.00144429238----------------------------
+Notification settings : BTC_0.0010_0.0010_3275.93268483000Current Price : 3278.00774192Percentage difference between current price 3278.00774192 and previous price 3275.93268483 is : 0.06334248257325395Current price 3278.00774192 is atleast 0.001 percent MORE than previous price 3275.93268483----------------------------
+
+Date: Sun Dec 16 20:30:34 GMT 2018----------------------------
+Notification settings : XMY_5_5_0.00144429238Current Price : 0.00154390572303Percentage difference between current price 0.00154390572303 and previous price 0.00144429238 is : 6.897034451569975Current price 0.00154390572303 is atleast 5.0 percent MORE than previous price 0.00144429238----------------------------
+Notification settings : BTC_0.0010_0.0010_3275.93268483000Current Price : 3277.64240828Percentage difference between current price 3277.64240828 and previous price 3275.93268483 is : 0.05219043290837498Current price 3277.64240828 is atleast 0.001 percent MORE than previous price 3275.93268483----------------------------
+
+Date: Sun Dec 16 20:29:34 GMT 2018----------------------------
+Notification settings : XMY_5_5_0.00144429238Current Price : 0.001541078028Percentage difference between current price 0.001541078028 and previous price 0.00144429238 is : 6.701250338245229Current price 0.001541078028 is atleast 5.0 percent MORE than previous price 0.00144429238----------------------------
+Notification settings : BTC_0.0010_0.0010_3275.93268483000Current Price : 3276.74511053Percentage difference between current price 3276.74511053 and previous price 3275.93268483 is : 0.024799828878111045Current price 3276.74511053 is atleast 0.001 percent MORE than previous price 3275.93268483----------------------------
+
+Date: Sun Dec 16 20:28:35 GMT 2018----------------------------
+Notification settings : BTC_0.0010_0.0010_3275.93268483000Current Price : 3276.5905457Percentage difference between current price 3276.5905457 and previous price 3275.93268483 is : 0.020081635774937594Current price 3276.5905457 is atleast 0.001 percent MORE than previous price 3275.93268483----------------------------
+
+Date: Sun Dec 16 20:27:35 GMT 2018----------------------------
+Notification settings : BTC_0.0010_0.0010_3275.93268483000Current Price : 3276.72592658Percentage difference between current price 3276.72592658 and previous price 3275.93268483 is : 0.02421422618581114Current price 3276.72592658 is atleast 0.001 percent MORE than previous price 3275.93268483----------------------------
+
+Date: Sun Dec 16 20:26:38 GMT 2018----------------------------
+Notification settings : BTC_0.0010_0.0010_3275.93268483000Current Price : 3277.24289684Percentage difference between current price 3277.24289684 and previous price 3275.93268483 is : 0.03999508341752604Current price 3277.24289684 is atleast 0.001 percent MORE than previous price 3275.93268483----------------------------
+
+Date: Sun Dec 16 20:24:39 GMT 2018----------------------------
+Notification settings : XMY_5_5_0.00144429238Current Price : 0.00151678743049Percentage difference between current price 0.00151678743049 and previous price 0.00144429238 is : 5.019416531852081Current price 0.00151678743049 is atleast 5.0 percent MORE than previous price 0.00144429238----------------------------
+Notification settings : BTC_0.0010_0.0010_3275.93268483000Current Price : 3278.37314865Percentage difference between current price 3278.37314865 and previous price 3275.93268483 is : 0.0744967633584486Current price 3278.37314865 is atleast 0.001 percent MORE than previous price 3275.93268483----------------------------
+
+Date: Sun Dec 16 17:38:46 GMT 2018----------------------------
+Notification settings : BTC_0.0010_0.0010_3275.93268483000Current Price : 3272.55352304Percentage difference between current price 3272.55352304 and previous price 3275.93268483 is : -0.10315113633586406Current price 3272.55352304 is atleast 0.001 percent LESS than previous price 3275.93268483
