@@ -124,7 +124,12 @@ public class MainNotificationFrame extends javax.swing.JFrame {
             np1.useAllCoins(allCoin);
             np1.execute();
         }, 1, 60 * pollEveryXMin, TimeUnit.SECONDS);
-
+        
+        //Set default values
+        String selectedCoin = listOfCoins.getSelectedValue();
+        AlertData alertData = new AlertData(prefs.get(selectedCoin, null));
+        txtPercentUp.setText(alertData.percentUp);
+        txtPercentDown.setText(alertData.percentDown);
     }
 
     /**
@@ -203,6 +208,11 @@ public class MainNotificationFrame extends javax.swing.JFrame {
         jLabel2.setText("% UP : ");
 
         txtPercentUp.setText("10");
+        txtPercentUp.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                txtPercentUpActionPerformed(evt);
+            }
+        });
 
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
         jLabel3.setText("% Down : ");
@@ -688,6 +698,10 @@ public class MainNotificationFrame extends javax.swing.JFrame {
         String time = new SimpleDateFormat("YYYY-MM-DD-hh:mm").format(Calendar.getInstance().getTime());
         FileUtils.writeToFile("ratio.txt", compareCoin + "_" + ratioCoin + "_" + time + "_" + ratio);
     }//GEN-LAST:event_btnShowCoinRatioActionPerformed
+
+    private void txtPercentUpActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtPercentUpActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_txtPercentUpActionPerformed
 
     /**
      * @param args the command line arguments
